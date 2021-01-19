@@ -1,0 +1,274 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html, body{
+font-family: sans-serif;
+line-height: 1.7em;
+}
+a{
+    text-decoration: none;
+}
+.container{
+margin: auto;
+overflow: auto;
+padding:12px 27px;
+}
+.navbar{
+background-color: rgb(14, 10, 32);
+width:100%;
+height: 75px;
+}
+.container h1 a{
+float: left;
+color: white;
+}
+.container ul{
+    list-style: none;
+    float:right;
+    padding-bottom: 40px;
+}
+.container ul li {
+    float: left;
+    color: white;
+}
+.container ul li a{
+color: white;
+padding: 35px;
+padding-top: 100px;
+padding-bottom: 35px;
+text-align: center;
+}
+.container ul li a:hover,
+.container ul li a:active,
+.container ul li a.active
+{
+background-color:rgb(3, 71, 62);
+color: rgb(236, 232, 227);
+}
+
+.bg{
+    background-image: url("black_background_leather-wallpaper-1366x768.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:850px;
+    width: 1960px;
+    padding-top: 20px;
+    text-align: center;
+}
+.bg h1{
+    padding-top: 210px;
+    font-size: 75px;
+    color: white;
+    text-transform: capitalize;
+}
+.bg p{
+color:whitesmoke;
+font-size: 25px;
+}
+.bg .btn{
+    background-color: slategray;
+    padding: 20px;
+    margin: 20px;
+}
+span{
+    color: rgb(238, 204, 145);
+}
+.bg .btn a{
+color: wheat;
+font-size: 20px;
+}
+.bg .btn:hover{
+    background-color: darksalmon;
+}
+.bg .btn a:hover{
+color: white;
+}
+.info{
+background-color:rgb(15, 14, 20);
+text-align: center;
+padding-top: 200px;
+height: 500px;
+width:100%;
+width: 1960px;
+}
+.info h1{
+font-size: 50px;
+text-transform: capitalize;
+color: cornsilk;
+}
+.info p{
+font-size: 25px;
+color:cornsilk ;
+}
+.info .btn2{
+    background-color: slategray;
+    padding: 20px;
+    margin: 20px;
+}
+.info .btn2 a{
+color: rgb(87, 69, 37);
+font-size: 20px;
+}
+.info .btn2:hover{
+    background-color: rgb(161, 96, 74);
+}
+.info .btn2 a:hover{
+color: rgb(12, 18, 37);
+}
+.box{
+    overflow: hidden;
+float: left;
+width: 33.33333%;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+.box h3{
+    padding-top: 20px;
+    font-size: 25px;
+
+}
+.box p{
+    padding-top: 10px;
+}
+.D{
+    overflow: hidden;
+background-color: rgb(0, 0, 0);
+color: rgb(107, 144, 194);
+}
+.W{
+    overflow: hidden;
+    background-color: rgb(255, 255, 255);
+    color: rgb(107, 144, 194);
+
+}
+.G{
+    overflow: hidden;
+    background-color: gray;
+    color: rgb(178, 179, 245);
+
+}
+.foot{
+overflow: hidden;
+text-align: center;
+padding: 5px;
+margin-top: 20px;
+background-color:rgb(14, 10, 32) ;
+color: ghostwhite;
+width: 1930px;
+font-family: monospace;
+}
+.txt-img .container .txt{
+float: left;
+}
+.txt-img .container .txt h1{
+    padding:40px 0px;
+    font-size: 40px;
+    color: wheat;
+    font-family: cursive;
+}
+
+.txt-img .container .txt p{
+    line-height: 2.2em;
+    color: wheat;
+    font-size: 18px;
+    font-family: cursive;
+}
+.txt-img .container .txt h1 span{
+color: rgb(12, 51, 83);
+}
+.txt-img .container .img{
+    overflow: hidden;
+    float: right;
+    width: 50%;
+    width: 600px;
+    padding: 40px 0px;
+}
+.txt-img .container .img img{
+border-radius:40%;
+overflow: hidden;
+}
+.txt-img{
+    background-color: rgb(10, 20, 20);
+    width: 100%;
+    width: 1960px;
+}
+.container ul li a.ac {
+    background-color:rgb(3, 71, 62);
+color: rgb(236, 232, 227);
+}
+.BT{
+    background-image: url("https://i.pinimg.com/originals/76/35/74/763574ceff61c7be2ef06062a095cfe1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 20px;
+    width: 1960px;
+    height: 580px;
+}
+.BT .contain h1{
+text-align: center;
+color: rgb(245, 219, 170);
+font-size: 50px;
+padding: 20px;
+}
+.BT .contain p {
+float: right;
+text-align: center;
+margin-right: 550px;
+font-size: 20px;
+font-family: fantasy;
+color: whitesmoke;
+}
+.BT .contain .cats p{
+    margin-right:810px;
+}
+.BT .contain img{
+    padding-left: 100px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 50% ; 
+}
+.BT .contain .bl,
+.BT .contain .cats{
+    overflow: hidden;
+    background-color: rgb(131, 130, 238);
+    margin: 30px;
+    border-radius: 10%;
+}
+.container ul li a.s{
+    background-color:rgb(3, 71, 62);
+color: rgb(236, 232, 227);
+}
+.sin{
+    background-image: url("data:image/jpeg;base64,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");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1915px;
+    padding: 20px;
+    height: 1000px;
+}
+.sin .sign h1{
+    color: thistle;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.sin .sign .si{
+text-align: center;
+color: rgb(104, 135, 240);
+}
+.sin .sign .si .in{
+    background-color: rgb(29, 63, 97);
+    padding: 20px;
+    margin: 20px;
+}
+label{
+    padding: 20px 25px;
+    line-height: 8.5em;
+}
+.ae{
+color: rgb(175, 176, 233);
+font-size: 15px;
+}
